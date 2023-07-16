@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Designed and created a SQL Server database using fundamental SQL skills. Created an ERD by defining the entities with datatypes, showing all the attributes, including PK and FK, showing all the relations, and defining the correct cardinalities for the relations. Secondly, creating the script/ creating and populating the database based on the ERD and using T-SQL to generate the W-Bank database and populate the database. Thirdly, created a database diagram and backup file of the SQL Server Database. Lastly, created TQL codes. 
+Designed and created a SQL Server database using fundamental SQL skills. Created an ERD by defining the entities with datatypes, showing all the attributes, including PK and FK, and defining the correct cardinalities for the relations. Secondly, created and populated the database based on the ERD and using T-SQL to generate the W-Bank database. Thirdly, created a database diagram and backup file of the SQL Server Database. Lastly, created TQL codes. 
 <br />
 
 
